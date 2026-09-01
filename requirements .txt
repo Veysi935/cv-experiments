@@ -1,0 +1,9 @@
+opencv-python
+opencv-contrib-python
+numpy
+ultralytics
+mediapipe
+requests
+python-dotenv
+matplotlib
+keyboard
